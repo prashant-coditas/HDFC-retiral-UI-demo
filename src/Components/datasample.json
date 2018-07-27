@@ -1,0 +1,17 @@
+[
+  {
+    "yourReadingList": [
+      {
+        "authorName": "freeCodeCamp",
+        "title": "The secret afterlives of your smartphone",
+        "subTitle": "Medium",
+        "date": "April 09, 2019",
+        "comments": 3,
+        "isBookmarked": true,
+        "authorAvatar": "https://avatars0.githubusercontent.com/u/9892522?v=3&s=200",
+        "imageURL": "https://cdn.cnn.com/cnnnext/dam/assets/180519143858-109-royal-wedding-second-dress-overlay-tease.jpg",
+        "description":"<p>Wait a minute. Wait a minute, Doc. Uhhh... Are you telling me that you built a time machine... out of a DeLorean?! Whoa. This is heavy.</p>"
+      }
+    ]
+  }
+]
